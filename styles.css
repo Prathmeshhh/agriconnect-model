@@ -1,0 +1,137 @@
+/* CSS for homepage */
+body.page1 {
+  background-color: aquamarine;
+}
+div {
+  text-align: center;
+}  
+ul {
+  text-align: left;
+}
+#info {
+  font-size: 1.5em;
+  font-weight:bold ;
+}
+#copyright {
+  background-color: rgb(99, 93, 93);
+  font-size: 1.2em;
+  padding: 10px;
+  font-weight: bold;
+}
+#main {
+font-family: 'Yeseva One', cursive;
+font-size: 3em;
+}
+#main2 {
+  font-size: 2em;
+  font-family: 'Aleo', serif;
+}
+#p1 {
+  font-weight: bold;
+  font-size: larger;
+}
+
+
+
+/* CSS for about page */
+body.page2 {
+  background-color: rgb(233, 211, 84);
+  text-align: center;
+  font-weight: bold;
+  margin-top: 200px;
+}
+#first {
+  font-size: 1.5rem;
+  margin-bottom: 50px;
+  font-family: 'Caprasimo', cursive;
+  border: 5px solid;
+  background-color: rgb(187, 171, 80);
+}
+#second {
+  margin-bottom: 50px;
+}
+
+
+
+/* CSS for framework page */
+body.page3 {
+  background-color: rgb(197, 248, 96);
+  text-align: center;
+  font-weight: bold;
+}
+#p3 {
+  position: absolute;
+  top: 50px;
+  left: 950px;
+}
+#framework {
+  font-family: 'Caprasimo', cursive;
+  background-color: rgb(51, 183, 51);
+  border: 5px solid;
+  
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin-right: 800px;
+  padding: 20px;
+}
+
+
+
+/* CSS for schemes page */
+body.page4 {
+  background-color: rgb(249, 181, 156);
+  font-weight: bolder;
+}
+#scheme {
+  font-size: 2.2rem;
+  font-family: 'Caprasimo', cursive;
+  background-color: rgb(193, 95, 59);
+  border: 5px solid;
+  margin: 250px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+.scheme {
+  font-size: x-large;
+}
+
+
+
+/* CSS for helplines page */
+body.page5 {
+  background-color: rgb(233, 133, 233);
+  font-weight: bolder;
+  text-align: center;
+}
+#help {
+  font-weight: bolder;
+  font-size: 3.5em;
+  font-family: 'Yeseva One', cursive;
+  background-color: rgb(221, 55, 155);
+  margin: 500px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  border: 5px solid;
+  padding: 20px;
+}
+
+
+
+
+/* CSS for contact page */
+body.page6 {
+  background-color: rgb(129, 187, 245);
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+}
+#contact {
+  font-family: 'Caprasimo', cursive;
+  background-color: rgb(98, 254, 202);
+  border: 5px solid;
+  padding: 20px;
+  margin: 500px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
